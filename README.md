@@ -1,4 +1,4 @@
- Hi, I'm Jess Garbin 👋
+# Hi, I'm Jess Garbin 👋
 
 **I use AI to make product teams ship better, faster, and with measurable impact.**
 
